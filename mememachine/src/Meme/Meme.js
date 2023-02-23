@@ -12,11 +12,10 @@ export const Meme = () => {
 
     useEffect(() => {
         fetch('https://api.imgflip.com/get_memes').then(res => res.json().then(res => {
-
          const _memes = res.data.memes
          shuffleMemes(_memes)
          setMemes(_memes)
-
+         console.log(_memes)
         }))
     },[])
 
