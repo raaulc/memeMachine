@@ -9,7 +9,7 @@ export const App = () => {
     <div>
       <h1>Rahul's Meme Machine</h1>
       <Routes>
-        <Route exact path='/' element = {<Meme/>}>
+        <Route exact path='/memeMachine' element = {<Meme/>}>
         </Route>
         <Route path='/generated' element = {<MemeGenerated/>}>
         </Route>
