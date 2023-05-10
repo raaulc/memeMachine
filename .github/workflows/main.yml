@@ -1,5 +1,7 @@
 name: ci-pipeline
+
 on: [push]
+
 jobs:
   install-dependencies:
     runs-on: ubuntu-latest
