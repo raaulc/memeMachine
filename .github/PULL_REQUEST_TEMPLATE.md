@@ -22,5 +22,4 @@
 
 ## Reviewers
 
-@reviewer1, @reviewer2
-
+@reviewer1
