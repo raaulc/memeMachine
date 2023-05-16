@@ -21,5 +21,3 @@
 - [ ] I have added any necessary comments for reviewers to understand my code
 
 ## Reviewers
-
-@reviewer1
