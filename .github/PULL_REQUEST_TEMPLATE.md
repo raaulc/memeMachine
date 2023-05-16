@@ -19,5 +19,3 @@
 - [ ] I have updated the documentation (if applicable)
 - [ ] My changes do not break any existing feature
 - [ ] I have added any necessary comments for reviewers to understand my code
-
-## Reviewers
